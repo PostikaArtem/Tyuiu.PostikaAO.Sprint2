@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Tyuiu.PostikaAO.Task4.V24.Lib")]
+[assembly: AssemblyTitle("Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.PostikaAO.Task4.V24.Lib")]
+[assembly: AssemblyProduct("Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

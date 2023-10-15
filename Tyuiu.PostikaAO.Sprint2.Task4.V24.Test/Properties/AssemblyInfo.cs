@@ -2,11 +2,11 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Tyuiu.PostikaAO.Task4.V24.Test")]
+[assembly: AssemblyTitle("Tyuiu.PostikaAO.Sprint2.Task4.V24.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.PostikaAO.Task4.V24.Test")]
+[assembly: AssemblyProduct("Tyuiu.PostikaAO.Sprint2.Task4.V24.Test")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -8,8 +8,8 @@
     <ProjectGuid>{9A6FC856-9973-4EB9-A2DD-AAC7D4B1EAB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.PostikaAO.Task4.V24.Test</RootNamespace>
-    <AssemblyName>Tyuiu.PostikaAO.Task4.V24.Test</AssemblyName>
+    <RootNamespace>Tyuiu.PostikaAO.Sprint2.Task4.V24.Test</RootNamespace>
+    <AssemblyName>Tyuiu.PostikaAO.Sprint2.Task4.V24.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.PostikaAO.Task4.V24.Lib\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib.csproj">
       <Project>{2fb42f18-31e7-489a-aec5-471cbe300db6}</Project>
       <Name>Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib</Name>
     </ProjectReference>
