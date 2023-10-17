@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.PostikaAO.Task4.V24.Lib\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib\Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib.csproj">
       <Project>{2fb42f18-31e7-489a-aec5-471cbe300db6}</Project>
       <Name>Tyuiu.PostikaAO.Sprint2.Task4.V24.Lib</Name>
     </ProjectReference>
